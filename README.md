@@ -18,4 +18,9 @@
 </p>
 
 ---
+</table>
+  </tr>
+      <td><img width="420" alt="хуета" src="git.png"></td>
+  </tr>
+</table>
 
