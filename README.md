@@ -14,7 +14,7 @@
 <h3 align="center">🛠 Developer</h3>
 
 <p align="center">
-  C# / Windows / Linux / C++ / PHP / Css / Html / Java/Kotlin
+  I love C++
 </p>
 
 ---
