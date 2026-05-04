@@ -4,7 +4,7 @@
   <a href="https://github.com/ifny75">
     <img src="https://img.shields.io/github/followers/ifny75?label=Follow&style=for-the-badge">
   </a>
-  <a href="https://e-z.bio/ifny75">
+  <a href="https://e-z.bio/ifny">
     <img src="https://img.shields.io/badge/Bio-e--z.bio-blue?style=for-the-badge">
   </a>
 </p>
