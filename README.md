@@ -10,14 +10,6 @@
 </p>
 
 ---
-
-<h3 align="center">🛠 Developer</h3>
-
-<p align="center">
-  I love C++
-</p>
-
----
 </table>
   </tr>
       <td><img width="1220" alt="хуета" src="git.png"></td>
