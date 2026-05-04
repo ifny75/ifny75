@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hello 👋 my name is Ifny75!</h1>
 
-<!--
-**ifny75/ifny75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Nezeryxs">
+    <img src="https://img.shields.io/github/followers/Nezeryxs?label=Follow&style=for-the-badge">
+  </a>
+  <a href="https://e-z.bio/nezeryxs">
+    <img src="https://img.shields.io/badge/Bio-e--z.bio-blue?style=for-the-badge">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">🛠 Developer</h3>
+
+<p align="center">
+  C# / Windows / Linux / C++ / PHP / Css / Html / Java/Kotlin
+</p>
+
+---
+
