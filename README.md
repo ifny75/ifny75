@@ -69,7 +69,8 @@ Linux Desktop
 | Project | Description |
 |----------|-------------|
 | 🌅 **PlasmaKde-Dynamic-Islands** | Dynamic Island implementation for KDE Plasma. |
-| 🛡️ **ScumChecker** | Discord moderation & scam detection utility. |
+| 🛡️ **ScumChecker** | Cheat-Checker  |
+| 🧿 **ScumCheckerV2** | Cheat-Checker (25% Kernel-mode) |
 
 ---
 
