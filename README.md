@@ -69,7 +69,7 @@ Linux Desktop
 | Project | Description |
 |----------|-------------|
 | 🌅 **PlasmaKde-Dynamic-Islands** | Dynamic Island implementation for KDE Plasma. |
-| 🛡️ **ScumChecker** | Cheat-Checker  |
+| 🛡️ **Obsidian** | private messenger  |
 | 🧿 **ScumCheckerV2** | Cheat-Checker (25% Kernel-mode) |
 
 ---
