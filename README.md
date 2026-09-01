@@ -46,21 +46,13 @@ public:
 
 ---
 
+
+
 ## Current Focus
 
-```text
-Native Development
-███████████████████░ 95%
-
-Software Protection
-█████████████████░░░ 90%
-
-Reverse Engineering
-████████████████░░░░ 85%
-
-Linux Desktop
-███████████████░░░░░ 80%
-```
+##
+[Vanalium-Project](https://github.com/valanium-project)
+##
 
 ---
 
