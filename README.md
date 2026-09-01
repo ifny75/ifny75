@@ -51,7 +51,7 @@ public:
 ## Current Focus
 
 ##
-[Vanalium-Project](https://github.com/valanium-project)
+[valanium-Project](https://github.com/valanium-project)
 ##
 
 ---
