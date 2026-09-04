@@ -61,7 +61,7 @@ public:
 | Project | Description |
 |----------|-------------|
 | 🌅 **PlasmaKde-Dynamic-Islands** | Dynamic Island implementation for KDE Plasma. |
-| 🛡️ **Obsidian** | private messenger  |
+| 🛡️ **Valanium-project** | private messenger&vpn&mail  |
 | 🧿 **ScumCheckerV2** | Cheat-Checker (25% Kernel-mode) |
 
 ---
