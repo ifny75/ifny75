@@ -3,9 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1C1917,100:D97757&text=ifny75&fontColor=F5F5F4&fontSize=72&animation=fadeIn"/>
 
-### Reverse Engineer · Native Developer · Software Protection
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=F4A261&center=true&vCenter=true&width=700&lines=Reverse+Engineering;Native+Development;Software+Protection;Linux+Desktop;Always+Building"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=F4A261&center=true&vCenter=true&width=700&lines=Ida+Ghidra;Native+J2c;Vmprotect+Xor;Linux+Desktop;Crack+Themida"/>
 
 </div>
 
