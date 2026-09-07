@@ -40,7 +40,7 @@ public:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,rust,java,kotlin,python,cs,linux,git&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,linux,git&theme=dark"/>
 
 </div>
 
